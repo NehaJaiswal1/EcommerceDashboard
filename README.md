@@ -139,7 +139,7 @@ I’m a data analyst with a background in software development, now focused on c
 ---
 
 ##  Screenshots / Demos
-Show what the dashboard looks like. - Alt text Example:(https://github.com/NehaJaiswal1/EcommerceDashboard/blob/main/Ecommerce-Dashbord.png)
-
+Show what the dashboard looks like. 
+Example : (https://github.com/NehaJaiswal1/EcommerceDashboard/blob/main/Ecommerce-Dashbord.png)
 
 
