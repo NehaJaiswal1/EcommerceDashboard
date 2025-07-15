@@ -138,7 +138,7 @@ I’m a data analyst with a background in software development, now focused on c
 
 ---
 
-## 📩 Feedback & Suggestions
+## 📩 Demo Link
 
-Have ideas or feedback? Open an issue or reach out—I'd love to connect!
+[Have ideas or feedback? Open an issue or reach out—I'd love to connect!](https://github.com/NehaJaiswal1/EcommerceDashboard/blob/main/Ecommerce-Dashbord.png)
 
